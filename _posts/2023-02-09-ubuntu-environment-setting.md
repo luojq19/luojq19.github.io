@@ -125,3 +125,6 @@ apt-get download package_name  # replace `package_name` with the name of the pac
 
 dpkg -x package.deb dir
 ```
+
+# rclone
+Used for upload, sync with cloud storage. Refer to [https://github.com/rclone/rclone](https://github.com/rclone/rclone) for details. I think this can replace gdrive.
