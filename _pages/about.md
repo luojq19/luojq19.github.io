@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a PhD candidate at the School of Computational Science and Engineering, Georgia Institue of Technology, advised by [Prof. Yunan Luo](https://faculty.cc.gatech.edu/~yunan/). I received my bachelor's degree in Computer Science from the Insitute for Interdesciplinary Information Sciences ([Yao Class](https://iiis.tsinghua.edu.cn/yaoclass)), Tsinghua University in 2023. 
+I'm currently a PhD student at the School of Computational Science and Engineering (CSE), Georgia Institue of Technology, advised by [Prof. Yunan Luo](https://faculty.cc.gatech.edu/~yunan/). I received my bachelor's degree in Computer Science from the Insitute for Interdesciplinary Information Sciences ([Yao Class](https://iiis.tsinghua.edu.cn/yaoclass)), Tsinghua University in 2023. 
 
 I have a wide range of research interests, including machine learning, deep learning and their application to computational biology.
 
