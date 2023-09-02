@@ -14,3 +14,6 @@ Usage:
 proxy = random.choice(proxies)
 response = requests.get(url=pdb_url, proxies=proxy)
 ```
+
+### Slow reaction of commands in a certain directory
+Probably due to too many changes for git, run `git status` to refresh the index.
