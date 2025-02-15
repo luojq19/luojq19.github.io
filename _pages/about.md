@@ -16,10 +16,10 @@ I have a wide range of research interests, including machine learning, deep lear
 
 # Publications
 **Learning maximally spanning representations improves protein function annotation**  
-<u>Jiaqi Luo</u>, Yunan Luo 
+<u>Jiaqi Luo</u>, Yunan Luo  
 RECOMB 2025
 
-**Pareto-optimal sampling for multi-objective protein sequence design** 
+**Pareto-optimal sampling for multi-objective protein sequence design**   
 <u>Jiaqi Luo</u>, Kerr Ding, Yunan Luo  
 
 **Leveraging conformal prediction to annotate enzyme function space with limited false positives**
