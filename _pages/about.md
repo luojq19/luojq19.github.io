@@ -15,7 +15,7 @@ I have a wide range of research interests, including machine learning, deep lear
 [[CV](/assets/CV.pdf)]   [[Google Scholar](https://scholar.google.com/citations?user=vjgnMl0AAAAJ)]
 
 # Publications
-**Learning maximally spanning representations improves protein function annotation**  
+**Learning maximally spanning representations improves protein function annotation**  [[link](https://doi.org/10.1101/2025.02.13.638156)]  
 <u>Jiaqi Luo</u>, Yunan Luo  
 RECOMB 2025
 

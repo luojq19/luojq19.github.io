@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-**Learning maximally spanning representations improves protein function annotation**  
+**Learning maximally spanning representations improves protein function annotation**  [[link](https://doi.org/10.1101/2025.02.13.638156)]  
 <u>Jiaqi Luo</u>, Yunan Luo  
 RECOMB 2025
 
