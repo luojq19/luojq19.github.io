@@ -19,8 +19,9 @@ author_profile: true
 <u>Jiaqi Luo</u>, Yunan Luo  
 RECOMB 2025
 
-**Pareto-optimal sampling for multi-objective protein sequence design**   
+**Pareto-optimal sampling for multi-objective protein sequence design**  [[link](https://www.cell.com/iscience/fulltext/S2589-0042(25)00379-7)]   
 <u>Jiaqi Luo</u>, Kerr Ding, Yunan Luo  
+iScience, 2025
 
 **Leveraging conformal prediction to annotate enzyme function space with limited false positives**
   [[link](https://doi.org/10.1371/journal.pcbi.1012135)]  
